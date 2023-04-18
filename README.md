@@ -1,1 +1,0 @@
-# CMU-15-418-Stanford-CS149-Parallel-Computing
